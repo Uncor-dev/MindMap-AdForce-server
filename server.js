@@ -9,10 +9,10 @@ app.use(cors());
 app.use(express.json());
 
 const db = mysql.createPool({
-    host: 'adforce-solution.com',
-    user: 'uvz4vwxnacdec',
-    password: '1*e^c32BK(&1',
-    database: 'db85rygu1vbtt1',
+    host: 'adflow-solution.com',
+    user: 'un0ev7jxg5pd6',
+    password: '>71d5b231*xj',
+    database: 'dbomnnzzencfvv',
     waitForConnections: true,
     connectionLimit: 10,
     queueLimit: 0,
